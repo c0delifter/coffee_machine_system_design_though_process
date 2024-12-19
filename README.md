@@ -1,4 +1,3 @@
-# coffee_machine_system_design_thought_process
 A C# exercise in inheritance, interface implementation, and dependency injection
 
 # Questions
