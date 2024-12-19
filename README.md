@@ -1,4 +1,4 @@
-🤔 A C# thought exercise in inheritance, interface implementation, and dependency injection
+### A C# thought exercise in inheritance, interface implementation, and dependency injection 🤔
 
 # Questions
 
